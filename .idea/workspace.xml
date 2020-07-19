@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3430c1d9-c25f-44d6-a47a-810472698588" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/annotations/com/vibedev/prespro/domain/AbstractAuditingEntity_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/annotations/com/vibedev/prespro/domain/Authority_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/annotations/com/vibedev/prespro/domain/PersistentAuditEvent_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/annotations/com/vibedev/prespro/domain/User_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/ABDOULBASSUR_ABDOU_SOIMADOU.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/Adja_Oulimata_Gaye.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/Diaw_Maarame.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/Diaw_Mara.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/Mahamat_Abakar_Mahamat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/Mbaye_Sokhna_THIAM.text" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/NellDavid.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Xarmat/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/Thonny Lars NTSOUANVA.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/anta_niang.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/diafara.text" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/fall.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/falll-serigne-fallou.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/khalifa_kane.text" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/mamediarrathiam.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/maradiaw.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/mouhamadou_lamine_sarr.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/moussa_diop.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../Xarmat/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../Xarmat/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/pierre_yem_mback.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Xarmat/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/src/main/resources/config/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../Xarmat/src/main/resources/config/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/test.xt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Xarmat/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xarmat/yem_mback_pierre.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Xarmat/yem_mback_pierre.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/vibedev/prespro/config/WebConfigurerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vibedev/prespro/config/WebConfigurerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1UYANP8RJ29He0qiujtaMzzocjL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Xarmat" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="PresproApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="prespro" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vibedev.prespro.PresproApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3430c1d9-c25f-44d6-a47a-810472698588" name="Default Changelist" comment="" />
+      <created>1575523113683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575523113683</updated>
+      <workItem from="1575523122116" duration="4542000" />
+      <workItem from="1595126646372" duration="414000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1595127057306">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1595127057306" />
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom" timestamp="1595127060629">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1595127060629" />
+    <state width="1802" height="275" key="GridCell.Tab.0.center" timestamp="1595127060624">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1595127060624" />
+    <state width="1802" height="275" key="GridCell.Tab.0.left" timestamp="1595127060624">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1595127060624" />
+    <state width="1802" height="275" key="GridCell.Tab.0.right" timestamp="1595127060625">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1595127060625" />
+    <state width="1802" height="275" key="GridCell.Tab.1.bottom" timestamp="1595127060594">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.1.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1595127060594" />
+    <state width="1802" height="275" key="GridCell.Tab.1.center" timestamp="1595127060590">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.1.center/72.27.1848.1053@72.27.1848.1053" timestamp="1595127060590" />
+    <state width="1802" height="275" key="GridCell.Tab.1.left" timestamp="1595127060589">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.1.left/72.27.1848.1053@72.27.1848.1053" timestamp="1595127060589" />
+    <state width="1802" height="275" key="GridCell.Tab.1.right" timestamp="1595127060593">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.1.right/72.27.1848.1053@72.27.1848.1053" timestamp="1595127060593" />
+  </component>
+</project>
