@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/prespro.iml" filepath="$PROJECT_DIR$/prespro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xarmat.iml" filepath="$PROJECT_DIR$/xarmat.iml" />
     </modules>
   </component>
 </project>
